@@ -37,10 +37,12 @@ title = "Carl Barks"
         keywords = ["some", "keywords", "to", "describe", "this"]
 
     [params.navigation]
-        show_navigation = true
+#        show_navigation = true CHANGED
+        show_navigation = false
 
     [params.footer]
-        show_footer = true
+#        show_footer = true CHANGED
+        show_footer = false
 
     [params.typography]
         title_font = "Bree Serif"
@@ -52,6 +54,8 @@ title = "Carl Barks"
         text_color = "#333333"
         link_color = "#60c17d"
 
+# fontawesome.com icons
+# academicons 
     [params.social]
         [params.social.email]
             name = "E-Mail"
