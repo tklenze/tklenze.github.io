@@ -2,28 +2,28 @@
 # Global options
 baseURL = "/"
 canonifyURLs = true
-copyright = "© 2021 by Carl Barks. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2021 by Tobias Klenze. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
-title = "Carl Barks"
+title = "Tobias Klenze"
 
 
 
 # Main menu
-[[menu.main]]
-    name = "About"
-    url  = "/about"
-    weight = 2
-[[menu.main]]
-    name = "Publications"
-    url  = "/publications"
-    weight = 2
-[[menu.main]]
-    name = "Blog"
-    url  = "/posts"
-    weight = 3
+#[[menu.main]]
+#    name = "About"
+#    url  = "/about"
+#    weight = 2
+#[[menu.main]]
+#    name = "Publications"
+#    url  = "/publications"
+#    weight = 2
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/posts"
+#    weight = 3
 
 
 
@@ -31,18 +31,18 @@ title = "Carl Barks"
 [params]
 
     [params.head]
-        author = "Carl Barks"
+        author = "Tobias Klenze"
         custom_css = ""
-        description = "Hi, I'm Carl, and this is my website!"
-        keywords = ["some", "keywords", "to", "describe", "this"]
+        description = "Academic website of Tobias Klenze"
+        keywords = ["tobias klenze", "formal verification", "future internet", "SCION", "protocol verification", "security protocols", "academic"]
 
     [params.navigation]
-#        show_navigation = true CHANGED
-        show_navigation = false
+        show_navigation = true #CHANGED
+#        show_navigation = false
 
     [params.footer]
-#        show_footer = true CHANGED
-        show_footer = false
+        show_footer = true #CHANGED
+#        show_footer = false
 
     [params.typography]
         title_font = "Bree Serif"
@@ -58,45 +58,52 @@ title = "Carl Barks"
 # academicons 
     [params.social]
         [params.social.email]
-            name = "E-Mail"
-            class = "fas fa-envelope"
-            url = "mailto:your_name@your_institution.com"
-            weight = 1
-        [params.social.github]
-            name = "GitHub"
-            class = "fab fa-github"
-            url = ""
-            weight = 2
+#            name = "E-Mail"
+#            class = "fas fa-envelope"
+#            url = "mailto:tobias.klenze@inf.ethz.ch"
+#            weight = 1
+#        [params.social.github]
+#            name = "GitHub"
+#            class = "fab fa-github"
+#            url = ""
+#            weight = 2
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar-square"
-            url = ""
+            url = "https://scholar.google.com/citations?user=oHKcnCAAAAAJ"
             weight = 3
-        [params.social.instagram]
-            name = "Instagram"
-            class = "fab fa-instagram"
-            url = ""
-            weight = 4
+#        [params.social.instagram]
+#            name = "Instagram"
+#            class = "fab fa-instagram"
+#            url = ""
+#            weight = 4
         [params.social.institution]
-            name = "My institution"
+            name = "ETH Website"
             class = "fas fa-university"
-            url = ""
+            url = "https://infsec.ethz.ch/people/detail.MjI5NTAw.TGlzdC8zMDg4LC0xMDQxNjk2MDky.html"
             weight = 5
-        [params.social.linkedin]
-            name = "LinkedIn"
-            class = "fab fa-linkedin"
-            url = ""
-            weight = 6
+#        [params.social.linkedin]
+#            name = "LinkedIn"
+#            class = "fab fa-linkedin"
+#            url = ""
+#            weight = 6
         [params.social.orcid]
             name = "ORCID iD"
             class = "fab fa-orcid"
-            url = ""
+            url = "https://orcid.org/0000-0002-6505-3942"
             weight = 7
-        [params.social.twitter]
-            name = "Twitter"
-            class = "fab fa-twitter"
-            url = ""
-            weight = 8
+        [params.social.dblp]
+            name = "DBLP"
+            class = "ai ai-dblp-square ai-lg"
+            url = "https://dblp.org/pid/182/9170.html"
+            weight = 7
+            
+            
+#        [params.social.twitter]
+#            name = "Twitter"
+#            class = "fab fa-twitter"
+#            url = ""
+#            weight = 8
 
 
 

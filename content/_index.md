@@ -1,13 +1,14 @@
 ---
 layout: landing_page
-image: avatar.jpg
+image: me.jpg
 ---
 
-Hi, I'm Carl! 👋
+**Tobias Klenze** 
+<br>Department of Computer Science
+<br>ETH Zurich, Switzerland
+<br>Email: tobias.klenze <img width="15" alt="the symbol that looks like an a, but used in emails" src="https://upload.wikimedia.org/wikipedia/commons/4/46/At_%28%40%29_sign.png"> ethz <img width="3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disc_Plain_black.svg/1200px-Disc_Plain_black.svg.png" alt="dot"> ch
 
-I am a Ph.D. student 🎓 in empirical barkology at Woof University where I work in the lab of Prof. Bark Twain 🏛
-Most of my research is driven by trying to find an answer to the age-old question of *"Who is a good boy?"* &nbsp;🐶❓
+I defended my PhD in the Information Security group of David Basin at ETH Zurich in summer 2021. Before that, I completed BSc and MSc computer science degrees at TU Munich, and a BA degree in philosophy at LMU Munich.
 
-In my free time, I like running 🐕💨, playing frisbee 🥏 and trying new foods! 🦴
+I am on the job market for the academic hiring season in fall 2021. Please feel free to get in touch with me.
 
-Please feel free to get in touch! 📧
