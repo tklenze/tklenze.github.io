@@ -1,0 +1,12 @@
+title: Tobias Klenze
+description: Researcher specializing in security, verification and networking
+url: "https://tklenze.github.io"
+
+# No theme - using custom layout
+plugins: []
+
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

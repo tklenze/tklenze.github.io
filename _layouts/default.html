@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    body {
+      font-family: 'Source Sans Pro', -apple-system, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background: #fcfbf9;
+      padding: 2rem 1rem;
+      max-width: 650px;
+      margin: 0 auto;
+    }
+    
+    .profile {
+      display: flex;
+      gap: 1.5rem;
+      align-items: flex-start;
+      margin-bottom: 1.5rem;
+    }
+    
+    .profile img {
+      width: 140px;
+      height: 140px;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+    
+    .profile-info h1 {
+      font-size: 1.5rem;
+      margin-bottom: 0.25rem;
+    }
+    
+    .profile-info .role {
+      color: #666;
+      margin-bottom: 0.5rem;
+    }
+    
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 0.5rem;
+    }
+    
+    .links a {
+      color: #555;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    
+    .links a:hover { color: #000; }
+    
+    section { margin: 2rem 0; }
+    
+    h2 {
+      font-size: 1.1rem;
+      color: #555;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.25rem;
+      margin-bottom: 1rem;
+    }
+    
+    p { margin-bottom: 1rem; }
+    
+    ul { 
+      list-style: none;
+      padding: 0;
+    }
+    
+    li {
+      margin-bottom: 0.75rem;
+      padding-left: 0;
+    }
+    
+    a { color: #2563eb; }
+    a:hover { color: #1d4ed8; }
+    
+    .pub-title { font-weight: 600; }
+    .pub-venue { color: #666; }
+    
+    @media (max-width: 500px) {
+      .profile { flex-direction: column; align-items: center; text-align: center; }
+      .links { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
