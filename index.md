@@ -50,7 +50,7 @@ title: Tobias Klenze
     <span class="pub-venue">Journal of Computer Security 2023 — <em>Tobias Klenze</em>, Christoph Sprenger, David Basin</span>
   </li>
   <li>
-    <span class="pub-title"><a href="https://doi.org/10.1109/CSF51468.2021.00018">Formal Verification of Secure Forwarding Protocols</a></span><br>
+    <span class="pub-title"><a href="https://doi.org/10.1109/CSF51468.2021.00018">Formal Verification of Secure Forwarding Protocols</a></span> <a class="pub-link" href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/information-security-group-dam/research/publications/pub2021/Formal%20Verification%20of%20Secure%20Forwarding%20Protocols%20-%20CSF2021.pdf">PDF</a><br>
     <span class="pub-venue">IEEE CSF 2021 — <em>Tobias Klenze</em>, Christoph Sprenger, David Basin</span>
   </li>
   <li>
