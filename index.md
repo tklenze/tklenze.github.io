@@ -39,7 +39,7 @@ title: Tobias Klenze
   </li>
   <li>
     <span class="pub-title"><a href="https://arxiv.org/abs/2410.22080">A New Broadcast Primitive for BFT Protocols</a></span> <a class="pub-link" href="https://arxiv.org/pdf/2410.22080">PDF</a><br>
-    <span class="pub-venue">arXiv 2024 — Manu Drijvers, Tim Gretler, Yotam Harchol, <em>Tobias Klenze</em>, Ognjen Maric, Stefan Neamtu, Yvonne-Anne Pignolet, Rostislav Rumenov, Daniel Sharifi, Victor Shoup</span>
+    <span class="pub-venue">arXiv 2024 — Manu Drijvers, Tim Gretler, Yotam Harchol, <em>Tobias Klenze</em>, Ognjen Maric, Stefan Neamtu, Yvonne-Anne Pignolet, Rostislav Rumenov, Daniel Sharifi, Victor Shoup*</span>
   </li>
   <li>
     <span class="pub-title"><a href="https://doi.org/10.1145/3719027.3765104">Protocols to Code: Formal Verification of a Secure Next-Generation Internet Router</a></span> <a class="pub-link" href="https://arxiv.org/pdf/2405.06074">PDF</a><br>
