@@ -18,7 +18,7 @@ title: Tobias Klenze
   </div>
 </div>
 
-<p>I am a researcher specializing in security, verification and networking. My expertise lies in designing and analyzing secure systems and protocols. I contributed to the secure networking & consensus layers of two blockchain ecosystems, <a href="https://monad.xyz/">Monad</a> and the Internet Computer, and I formally verified the data plane of the next-generation Internet protocol suite <a href="https://www.scion.org/">SCION</a>.</p>
+<p>I am a researcher specializing in security, verification, networking and consensus. My expertise lies in designing and analyzing secure systems and protocols. I contributed to the secure networking & consensus layers of two blockchain ecosystems, <a href="https://monad.xyz/">Monad</a> and the Internet Computer, and I formally verified the data plane of the next-generation Internet protocol suite <a href="https://www.scion.org/">SCION</a>.</p>
 
 <p>I am currently a Senior Researcher at <a href="https://www.category.xyz/">Category Labs</a>. Previously, I was a visiting research scientist at DFINITY in Zurich. I completed my PhD in the <a href="https://infsec.ethz.ch/">Information Security group</a> of David Basin at ETH Zurich in 2021, where I also did a postdoc. Before that, I completed BSc and MSc degrees in computer science at TU Munich, and a BA in philosophy at LMU Munich.</p>
 
