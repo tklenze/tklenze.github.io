@@ -26,6 +26,14 @@ title: Tobias Klenze
 
 <ul>
   <li>
+    <span class="pub-title">Accountable MonadBFT: Fast, Responsive, Fork-Resistant Consensus with Speculation Accountability</span><br>
+    <span class="pub-venue">DISC 2026 — Mohammad Mussadiq Jalalzai, Kushal Babel, Jovan Komatovic, <em>Tobias Klenze</em>, Sourav Das, Fatima Elsheimy, Mike Setrin, John Bergschneider, Babak Poorebrahim Gilkalaye</span>
+  </li>
+  <li>
+    <span class="pub-title"><a href="https://arxiv.org/pdf/2607.02275.pdf">Cadence: Extreme Pipelining with Multiple Concurrent Proposers</a></span><br>
+    <span class="pub-venue">arXiv 2026 — Kushal Babel, Fatima Elsheimy, Lioba Heimbach, Mohammad Mussadiq Jalalzai, <em>Tobias Klenze</em>, Jovan Komatovic, Jason Milionis, Mike Setrin, Victor Shoup</span>
+  </li>
+  <li>
     <span class="pub-title"><a href="https://arxiv.org/pdf/2502.20692.pdf">MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus</a></span><br>
     <span class="pub-venue">arXiv 2025 — Mohammad Mussadiq Jalalzai, Kushal Babel, Jovan Komatovic, <em>Tobias Klenze</em>, Sourav Das, Fatima Elsheimy, Mike Setrin, John Bergschneider, Babak Gilkalaye</span>
   </li>
