@@ -26,6 +26,10 @@ title: Tobias Klenze
 
 <ul>
   <li>
+    <span class="pub-title"><a href="https://arxiv.org/abs/2610.32803">Quantum Cadence: Post-Quantum Consensus with Multiple Concurrent Proposers</a></span> <a class="pub-link" href="https://arxiv.org/pdf/2610.32803">PDF</a><br>
+    <span class="pub-venue">arXiv 2026 — Mohammad Mussadiq Jalalzai, <em>Tobias Klenze</em>, Jovan Komatovic*</span>
+  </li>
+  <li>
     <span class="pub-title">Accountable MonadBFT: Fast, Responsive, Fork-Resistant Consensus with Speculation Accountability</span> <a class="pub-link" href="https://doi.org/10.5281/zenodo.22015067">Extended version</a><br>
     <span class="pub-venue">DISC 2026 — Mohammad Mussadiq Jalalzai, Kushal Babel, Jovan Komatovic, <em>Tobias Klenze</em>, Sourav Das, Fatima Elsheimy, Mike Setrin, John Bergschneider, Babak Poorebrahim Gilkalaye</span>
   </li>
