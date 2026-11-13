@@ -34,7 +34,7 @@ title: Tobias Klenze
     <span class="pub-venue"><span class="venue">DISC 2026</span> (Symposium on Distributed Computing) — Mohammad Mussadiq Jalalzai, Kushal Babel, Jovan Komatovic, <em>Tobias Klenze</em>, Sourav Das, Fatima Elsheimy, Mike Setrin, John Bergschneider, Babak Poorebrahim Gilkalaye</span>
   </li>
   <li>
-    <span class="pub-title"><a href="https://arxiv.org/abs/2607.02275">Cadence: Extreme Pipelining with Multiple Concurrent Proposers</a></span> <a class="pub-link" href="https://arxiv.org/pdf/2607.02275">PDF</a><br>
+    <span class="pub-title"><a href="https://arxiv.org/abs/2607.02275">Cadence: Extreme Pipelining with Multiple Concurrent Proposers</a></span> <a class="pub-link" href="https://arxiv.org/pdf/2607.02275">PDF</a> <a class="pub-link" href="https://www.youtube.com/watch?v=9qm0YOrOiq4">Podcast</a><br>
     <span class="pub-venue"><span class="venue">FC 2027</span> (Financial Cryptography and Data Security), to appear — Kushal Babel, Fatima Elsheimy, Lioba Heimbach, Mohammad Mussadiq Jalalzai, <em>Tobias Klenze</em>, Jovan Komatovic, Jason Milionis, Mike Setrin, Victor Shoup*</span>
   </li>
   <li>
